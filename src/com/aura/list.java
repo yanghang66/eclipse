@@ -28,7 +28,7 @@ public class list {
         System.out.println("-----------------------------------------------");
         System.out.println("总库存数："+sum);
         System.out.println("库存商品总金额："+tota);
-        
+        System.out,println("-------------------------");
 	}
 
 }
